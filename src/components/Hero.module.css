@@ -100,3 +100,11 @@
   font-size: 11px;
   color: var(--color-text-tertiary);
 }
+
+.updated {
+  font-size: 12px;
+  color: #ff6b6b;
+  font-weight: 500;
+  margin-left: 10px;
+  margin-bottom:10px; 
+}

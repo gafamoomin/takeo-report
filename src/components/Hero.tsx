@@ -6,6 +6,7 @@ export default function Hero() {
     <section className={styles.hero}>
       <div className={styles.inner}>
         <div className={styles.tag}>分析レポート — 2025年8月以前の公開情報に基づく</div>
+        <div className={styles.updated}>最終データ更新：2026年4月2日 19:49</div>
         <h1 className={styles.title}>
           {universityInfo.name}<br />
           <span className={styles.titleSub}>初年度入学者数 予測レポート</span>
