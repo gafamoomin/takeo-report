@@ -85,7 +85,7 @@ export default function TrendSection() {
             <div className={styles.noteLabel}>電動モビリティ専門職大学（山形）の極端事例</div>
           </div>
           <div className={styles.noteCard}>
-            <div className={styles.noteValue} style={{ color: '#4a9eff' }}>32〜39%</div>
+            <div className={styles.noteValue} style={{ color: '#4a9eff' }}>32〜43%</div>
             <div className={styles.noteLabel}>武雄アジア大学の標準シナリオ充足率</div>
           </div>
         </div>
